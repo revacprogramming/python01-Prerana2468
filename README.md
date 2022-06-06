@@ -1,15 +1,21 @@
-# python-activity-sets
----
-
-## ActivitySet01
-Source: [Py4E](https://py4e.com)
-
-Follow through Py4E tutorials and submit your solutions in the files listed.
-
-## ActivitySet02
-*Fix* the programs to get the desired output.
-
-## ActivitySet03
-Source: [University of Scranton, HSPC 2007](https://www.cs.scranton.edu/~mccloske/hs_prog_contest/contest_problems/probs_07_head.pdf)
-
-Solve the problems from the PDF listed in the files.
+str1="hello"
+str2='there'
+bob=str1+str2
+print(bob)
+str3="123"
+bob=int(str3)+1
+print(bob)
+print(int)
+str4='jat'''
+str="banana"
+x=3
+print(str[x])
+print(str[x-1])
+print(len(str))
+...
+name='reva'
+i=0
+while i<len(name):
+ letter = name[i]
+ print(i,letter)
+ i=i+1
